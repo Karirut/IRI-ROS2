@@ -1,2 +1,7 @@
 # IRI-ROS2
-Repository of my ROS2 codes created on my 6th semester / Repositorio para mis códigos de ROS2 creados en mi 6to semestre
+
+ROS2 (python) codes that i realized on my Implementation of Inteligent Robotics (6th semester)
+
+Codigos de ROS2 (python) que realicé en mi clase de Implementación de Robótica Inteligente (6to semestre)
+
+ROS HUMBLE
