@@ -9,6 +9,8 @@ My final proyect:
     ° Straight
     ° Stop
 - Puzzlebot's movement and addition of everything else
+* Extra code: launch
+
 
 Mi proyecto final:
 - Detección de colores
@@ -21,4 +23,5 @@ Mi proyecto final:
     ° Straight
     ° Stop
 - Movimiento del Robot e inclusión de todo lo anteriormente mencionado
+* Código extra: launch
 
